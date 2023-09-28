@@ -1,7 +1,7 @@
 <h1 align="Left">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="left">A Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu200223&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu200223" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdarshSingh9540&label=Profile%20views&color=0e75b6&style=flat" alt="AdarshSingh9540" /> </p>
 
 - 👨‍💻 All of my projects are available at [github](github)
 
