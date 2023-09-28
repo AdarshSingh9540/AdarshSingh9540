@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=priyanshu200223&show_icons=true&locale=en" alt="priyanshu200223" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu200223&" alt="priyanshu200223" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshSingh9540&" alt="AdarshSingh9540" /></p>
