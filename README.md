@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.css.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="mysql" width="60" height="40"/> </a> <a href="https://www.js.org" target="_blank" rel="noreferrer"> <img src="https://tse1.mm.bing.net/th?id=OIP.Hf1fzVhQli-QEEdHhyDydwHaIr&pid=Api&P=0&h=180" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.css.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="mysql" width="60" height="40"/> </a> <a href="https://www.js.org" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.pUKsXI_FoAVKoSpt58xUigHaE8&pid=Api&P=0&h=180" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AdarshSingh9540&show_icons=true&locale=en" alt="AdarshSingh9540" /></p>
 
