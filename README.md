@@ -17,10 +17,10 @@
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="45"/> </a> <a href="https://www.css.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="css" width="60" height="45"/> </a> <a href="https://www.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="60" height="45"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="html5" width="50" height="45"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="html5" width="50" height="45"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="html5" width="50" height="45"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="html5" width="50" height="45"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="html5" width="50" height="45"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=https://www.pngwing.com/en/search?q=mongodb" alt="html5" width="50" height="45"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="45"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="45"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="45"/> </a>
+
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="html5" width="50" height="45"/> </a>
 
