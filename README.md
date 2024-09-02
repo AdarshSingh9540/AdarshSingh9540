@@ -3,14 +3,14 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarshsingh9540/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-singh-183357262/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]( https://x.com/AdarshS98532066?t=ag_XChN-UoCr7fI7oqqrVg&s=08 ) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarshsingh9540/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-singh-183357262/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]( https://x.com/Adarsh9540?t=ag_XChN-UoCr7fI7oqqrVg&s=08 ) 
 
 ## Socials
 - Connect with me on [**X/Twitter**]( https://x.com/AdarshS98532066?t=ag_XChN-UoCr7fI7oqqrVg&s=08).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/adarsh-singh-183357262/).
-- Everything on [**Website**](https://thisisadarshsingh.vercel.app/).
+- Everything on [**Portfolio**](https://thisisadarshsingh.vercel.app/).
 # 💻 Tech Stack:
-- **Languages**: Java, Javascript/TypeScript, python(learning).
+- **Languages**: Java, Javascript/TypeScript, python(learning), HTML5 ,CSS3.
 - **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
 - **Databases**: MongoDB, PostgreSQL.
 - **ORM**: Prisma, Mongoose.
