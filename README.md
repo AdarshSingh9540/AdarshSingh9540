@@ -5,13 +5,17 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarshsingh9540/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-singh-183357262/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]( https://x.com/AdarshS98532066?t=ag_XChN-UoCr7fI7oqqrVg&s=08 ) 
 
+## Socials
+- Connect with me on [**X/Twitter**]( https://x.com/AdarshS98532066?t=ag_XChN-UoCr7fI7oqqrVg&s=08).
+- Add me on [**LinkedIn**](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-singh-183357262/).
+- Everything on [**Portfolio**]([https://prajjwalsharma.vercel.app/](https://thisisadarshsingh.vercel.app/)).
+
 # 💻 Tech Stack:
-Languages: Java, Javascript/TypeScript.
-Frameworks/Libraries: Node.js/Express.js, React.js, Next.js.
-Platforms: GitHub, Vercel.
-Databases: MongoDB, PostgreSQL, Supabase.
-ORM: Prisma, Mongoose.
-Misc: Docker, Turborepo, TailwindCSS, Zustand.
+- **Languages**: Java, Javascript/TypeScript, python(learning).
+- **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
+- **Databases**: MongoDB, PostgreSQL.
+- **ORM**: Prisma, Mongoose.
+- **Misc**: Docker, TailwindCSS, Zustand.
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adarshsingh9540&theme=radical&hide_border=false)<br/>
 
