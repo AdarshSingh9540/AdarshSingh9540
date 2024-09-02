@@ -7,9 +7,8 @@
 
 ## Socials
 - Connect with me on [**X/Twitter**]( https://x.com/AdarshS98532066?t=ag_XChN-UoCr7fI7oqqrVg&s=08).
-- Add me on [**LinkedIn**](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-singh-183357262/).
-- Everything on [**Portfolio**]([https://prajjwalsharma.vercel.app/](https://thisisadarshsingh.vercel.app/)).
-
+- Add me on [**LinkedIn**](https://www.linkedin.com/in/adarsh-singh-183357262/).
+- Everything on [**Website**](https://thisisadarshsingh.vercel.app/).
 # 💻 Tech Stack:
 - **Languages**: Java, Javascript/TypeScript, python(learning).
 - **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
