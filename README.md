@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack<br>👯 See my portfolio at [**Adarsh Singh**](https://thisisadarshsingh.vercel.app/). <br>🌱 I’m exploring Full Stack TechStack<br>💬 Ask me about MERN<br>
+🔭 I’m a software Engineer<br>👯 See my portfolio at [**Adarsh Singh**](https://thisisadarshsingh.vercel.app/). <br>🌱 I’m exploring Full Stack TechStack<br>💬 Ask me about MERN<br>
 
 ## 🌐 Socials:
 - Connect with me on [**X/Twitter**]( https://x.com/AdarshS98532066?t=ag_XChN-UoCr7fI7oqqrVg&s=08).
